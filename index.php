@@ -1,7 +1,5 @@
 <?php include 'loggedIn.php'; ?>
-
 <!DOCTYPE HTML>
-
 <html>
 <head>
     <title>Untitled</title>
@@ -12,7 +10,6 @@
     </script>
     <script src="js/handlerForm.js"></script>
 </head>
-
 <body>
 
 <?php
